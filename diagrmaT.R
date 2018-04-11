@@ -1,3 +1,6 @@
+# Script de Milagros Villavicencio #
+#Diagrama de Taylor para Temperaturas#
+
 library(plotrix)
 
 data<- read.table('DATAR.csv', sep=',', header = TRUE)
